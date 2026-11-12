@@ -4,6 +4,8 @@ These are the Claude skills from the Sync Selling sessions, so you can run what 
 
 The first one is **ABM campaign**, from the Deal Clinic on 10 November 2026. It finds the right person at the right business at the right moment, works out something you could send them that's so useful they'd pay to receive it, and writes the emails. Claude researches each business, a separate agent checks every fact, and another reads each email as the buyer would before you see it. Nothing sends until you've read it.
 
+The second is **Get on the phone**. Tell it who you're trying to reach and what's happened so far (an enquiry by email, a quote gone quiet, an account you've never won), and it finds the one reason to talk that's about them, then writes the message that gets the call, what to say when they pick up, the questions to ask, and the line that books the next call before you hang up. Start it with: "Help me get [name] at [company] on the phone. Here's what's happened so far: ..."
+
 It's a first version. If something trips you up, reply to any Sync Selling email and tell us, and the fix will reach everyone.
 
 ## Add it to the Claude desktop app
