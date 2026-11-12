@@ -46,3 +46,7 @@ Paste the prompt above, then paste the contents of [the value test](plugins/sync
 - `references/interview.md`, `references/triggers-and-research.md` and `references/sending.md` cover the interview, the research and the sending.
 - `agents/` holds the five briefs: research, decide the gift, write, check, and read as the buyer.
 - `scripts/` holds two checks that need only Python: every quote is really in its source, and no phrase marks the email as automated.
+
+## Want more like this?
+
+These skills come from Sync Selling, Joe Milnes's programme for founders and their teams. If you want this, and many other AI tools to help you sell with less effort in less time, [book a call here](https://app.revitk.com/widget/bookings/syncselling-email?utm_source=github&utm_medium=readme&utm_campaign=sync-selling-skills).
