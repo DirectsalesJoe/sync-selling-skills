@@ -1,0 +1,14 @@
+{
+  "name": "revitk",
+  "description": "Sync Selling skills for Claude, from Joe Milnes at Revitk",
+  "owner": {
+    "name": "Joe Milnes, Revitk"
+  },
+  "plugins": [
+    {
+      "name": "sync-selling",
+      "source": "./plugins/sync-selling",
+      "description": "Sync Selling skills: an ABM campaign built around a gift so useful the prospect would pay to receive it, researched, written, checked and read as the buyer before you send."
+    }
+  ]
+}
