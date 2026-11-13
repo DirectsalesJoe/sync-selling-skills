@@ -56,7 +56,7 @@ The research agent (`agents/1-research.md`) builds one pack per account. The rul
 
 - Find the person who owns the problem: the role named in the brief. If the trigger is a job ad, the hiring manager is usually the person the new hire reports to.
 - Find a second senior person at the same business if there is one, for the cadence's later emails.
-- Find their email with whatever tool the user has. Where two sources give the same address, mark it confident. Where only one does, mark it for the user to decide. Never guess a pattern (first.last@) and send to it unchecked, because bounces damage the sending address.
+- Find their email with whatever tool the user has. A Sync Selling member with an access code can use the find-emails skill, which spends the Lead Magic credits that come with the programme. Where two sources give the same address, mark it confident. Where only one does, mark it for the user to decide. Never guess a pattern (first.last@) and send to it unchecked, because bounces damage the sending address.
 - Record where each address came from. Many countries' privacy laws expect you to be able to say.
 
 ## Two things never to do

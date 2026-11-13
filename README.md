@@ -6,6 +6,8 @@ The first one is **ABM campaign**, from the Deal Clinic on 10 November 2026. It 
 
 The second is **Get on the phone**. Tell it who you're trying to reach and what's happened so far (an enquiry by email, a quote gone quiet, an account you've never won), and it finds the one reason to talk that's about them, then writes the message that gets the call, what to say when they pick up, the questions to ask, and the line that books the next call before you hang up. Start it with: "Help me get [name] at [company] on the phone. Here's what's happened so far: ..."
 
+The third is **Find emails**. Sync Selling members get 500 Lead Magic credits on us. It finds a person's work email, checks an address works, finds who holds a role at a company and looks companies up, and the ABM skill uses it when it reaches the step where it needs an address. It needs your access code, which we send you.
+
 It's a first version. If something trips you up, reply to any Sync Selling email and tell us, and the fix will reach everyone.
 
 ## Add it to the Claude desktop app
@@ -27,6 +29,16 @@ In a Claude Code session, run these two commands:
 ```
 
 Then run `/plugin`, open **Marketplaces**, choose **revitk** and select **Enable auto-update**. Claude Code is the best place to run the ABM skill, because it can start a fresh agent for each step and saves every file into your folder. The two checks need Python 3, and on a Mac the first run may ask to install Apple's developer tools, which is fine to say yes to.
+
+## Your Lead Magic credits
+
+Once the plugin is installed, say this to Claude with your own code in place of the example:
+
+> Set up Find emails with my access code ssl_example
+
+It checks the code, saves it on your computer and tells you how many credits you have. Ask "how many Lead Magic credits have I got?" at any time, which costs nothing. Finding an email costs 1 credit, and nothing when there's no address to find. When you run out, reply to any Sync Selling email and we'll top you up.
+
+Keep your code to yourself, because anyone holding it can spend your credits. The skill needs Python 3, the same as the ABM checks.
 
 ## Start it
 
